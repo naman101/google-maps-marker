@@ -13,3 +13,5 @@ How to run:
 `REACT_APP_GOOGLE_API_KEY=YOUR KEY HERE` and replace `YOUR KEY HERE` with your google maps api key.
 3. npm run/yarn start to run a development build.
 4. npm run/yarn build to build a production build and then run it using a an https serve library.
+
+Demo: https://google-maps-marker.netlify.com
